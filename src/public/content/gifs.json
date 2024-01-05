@@ -1,0 +1,16 @@
+[
+    {
+        "name": "example-config",
+        "url": "https://media4.giphy.com/media/J6ikkcRDDSL4I/giphy.gif",
+        "lengthInMillis": 3600,
+        "width": 100,
+        "height": 100
+    },
+    {
+        "name": "example-config-2",
+        "url": "https://media1.giphy.com/media/RrVzUOXldFe8M/giphy.gif",
+        "lengthInMillis": 1000,
+        "width": 100,
+        "height": 100
+    }
+]
